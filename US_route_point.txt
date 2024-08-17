@@ -10,3 +10,4 @@ DOMAIN,namecheap.com
 DOMAIN,paypal.com
 DOMAIN,cloudflare.com
 DOMAIN,futureconnect.io
+DOMAIN,v2rayssr.com
