@@ -13,3 +13,4 @@ DOMAIN,futureconnect.io
 DOMAIN,v2rayssr.com
 DOMAIN,sagernet.org
 DOMAIN,interserver.net
+DOMAIN,hostinger.com
