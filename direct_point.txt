@@ -1,3 +1,4 @@
 #direct route
 DOMAIN,iqiyi.com
 DOMAIN,quark.cn
+DOMAIN,tencent.com
