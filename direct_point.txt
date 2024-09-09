@@ -2,3 +2,4 @@
 DOMAIN,iqiyi.com
 DOMAIN,quark.cn
 DOMAIN,tencent.com
+DOMAIN,futunn.com
