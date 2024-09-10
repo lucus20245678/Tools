@@ -16,3 +16,4 @@ DOMAIN,interserver.net
 DOMAIN,hostinger.com
 DOMAIN,stripe.com
 DOMAIN,cheddarflow.com
+DOMAIN,uscreditcardguide.com
