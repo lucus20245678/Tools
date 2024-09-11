@@ -51,3 +51,4 @@ DOMAIN-SUFFIX,yourdigitalrebatecenter.com
 DOMAIN-SUFFIX,advertising.com
 DOMAIN-SUFFIX,barclaycardus.com
 DOMAIN,lens.l.google.com
+DOMAIN,americanexpress.com
