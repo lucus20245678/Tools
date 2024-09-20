@@ -55,3 +55,4 @@ DOMAIN,lens.l.google.com
 DOMAIN,americanexpress.com
 DOMAIN,ultramobile.com
 DOMAIN,capitalone.com
+DOMAIN,americanexpress.com
