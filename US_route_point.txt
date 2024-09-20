@@ -57,3 +57,5 @@ DOMAIN,americanexpress.com
 DOMAIN,ultramobile.com
 DOMAIN,capitalone.com
 DOMAIN,americanexpress.com
+DOMAIN,irs.gov
+DOMAIN-SUFFIX,irs.gov
