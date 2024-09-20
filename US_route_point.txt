@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,advertising.com
 DOMAIN-SUFFIX,barclaycardus.com
 DOMAIN,lens.l.google.com
+DOMAIN,id.me
 DOMAIN,americanexpress.com
 DOMAIN,ultramobile.com
 DOMAIN,capitalone.com
