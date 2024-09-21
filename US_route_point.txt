@@ -59,3 +59,4 @@ DOMAIN,capitalone.com
 DOMAIN,americanexpress.com
 DOMAIN,irs.gov
 DOMAIN-SUFFIX,irs.gov
+DOMAIN,letslabel.com
