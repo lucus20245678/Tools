@@ -4,3 +4,4 @@ DOMAIN,quark.cn
 DOMAIN,tencent.com
 DOMAIN,futunn.com
 DOMAIN-SUFFIX,iqiyi.com
+DOMAIN,letslabel.com
