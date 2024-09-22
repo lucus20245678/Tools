@@ -7,3 +7,4 @@ DOMAIN,ocbc.com
 DOMAIN,bitpay.com
 DOMAIN,binance.com
 DOMAIN,ihg.com
+DOMAIN,ihg.com.cn
