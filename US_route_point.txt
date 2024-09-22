@@ -60,3 +60,4 @@ DOMAIN,americanexpress.com
 DOMAIN,irs.gov
 DOMAIN-SUFFIX,irs.gov
 DOMAIN,letslabel.com
+DOMAIN,edreams.net
