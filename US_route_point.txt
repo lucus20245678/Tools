@@ -62,3 +62,4 @@ DOMAIN-SUFFIX,irs.gov
 DOMAIN,letslabel.com
 DOMAIN,edreams.net
 DOMAIN,wellsfargo.com
+DOMAIN,aadvantagehotels.com
