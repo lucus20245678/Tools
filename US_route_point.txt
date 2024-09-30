@@ -1,4 +1,9 @@
 #US route point
+DOMAIN,www.googleapis.com
+DOMAIN,lens.l.google.com
+DOMAIN,ssl.gstatic.com
+DOMAIN,googleusercontent.com 
+DOMAIN,googleapis.com
 DOMAIN,bankofamerica.com
 DOMAIN,wellsfargo.com
 DOMAIN,chase.com
@@ -51,7 +56,6 @@ DOMAIN-SUFFIX,yourdigitalrebatecenter.com
 DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,advertising.com
 DOMAIN-SUFFIX,barclaycardus.com
-DOMAIN,lens.l.google.com
 DOMAIN,id.me
 DOMAIN,americanexpress.com
 DOMAIN,ultramobile.com
