@@ -67,3 +67,4 @@ DOMAIN,letslabel.com
 DOMAIN,edreams.net
 DOMAIN,wellsfargo.com
 DOMAIN,aadvantagehotels.com
+DOMAIN,vanillagift.com
