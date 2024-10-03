@@ -68,3 +68,4 @@ DOMAIN,edreams.net
 DOMAIN,wellsfargo.com
 DOMAIN,aadvantagehotels.com
 DOMAIN,vanillagift.com
+DOMAIN,ultramobile.com
