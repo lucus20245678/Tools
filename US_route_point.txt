@@ -79,6 +79,7 @@ DOMAIN,synnex.com
 DOMAIN,avnet.com
 DOMAIN,neweggbusiness.com
 DOMAIN,bankofamerica.com
+DOMAIN,openai.com
 IP-CIDR,204.141.210.128/27
 IP-CIDR,204.141.210.96/27
 IP-CIDR,12.11.88.32/27
