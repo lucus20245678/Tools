@@ -93,3 +93,4 @@ IP-CIDR,12.11.88.32/27
 IP-CIDR,12.11.88.96/27
 DOMAIN,ipxo.com
 DOMAIN,ezpassnh.com
+DOMAIN,ubereats.com
