@@ -96,3 +96,4 @@ DOMAIN,ezpassnh.com
 DOMAIN,ubereats.com
 DOMAIN,uscardforum.com
 DOMAIN,doordash.com
+DOMAIN,openai.com
