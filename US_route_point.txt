@@ -98,3 +98,5 @@ DOMAIN,uscardforum.com
 DOMAIN,doordash.com
 DOMAIN,openai.com
 DOMAIN,yahoo.com
+IP-CIDR,89.213.52.0/22
+IP-CIDR,190.93.72.0/22
