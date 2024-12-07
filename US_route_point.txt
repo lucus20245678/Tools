@@ -101,3 +101,4 @@ DOMAIN,yahoo.com
 IP-CIDR,89.213.52.0/22
 IP-CIDR,190.93.72.0/22
 DOMAIN,ipxo.com
+DOMAIN,ipinfo.io
