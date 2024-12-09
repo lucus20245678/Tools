@@ -87,10 +87,6 @@ DOMAIN,capitalone.com
 DOMAIN,box.com
 DOMAIN,fluzapp.com
 DOMAIN,55haitaoshop.com
-IP-CIDR,204.141.210.128/27
-IP-CIDR,204.141.210.96/27
-IP-CIDR,12.11.88.32/27
-IP-CIDR,12.11.88.96/27
 DOMAIN,ipxo.com
 DOMAIN,ezpassnh.com
 DOMAIN,ubereats.com
