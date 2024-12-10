@@ -99,3 +99,4 @@ IP-CIDR,190.93.72.0/22
 DOMAIN,ipxo.com
 DOMAIN,ipinfo.io
 DOMAIN,doordash.com
+DOMAIN,postmates.com
