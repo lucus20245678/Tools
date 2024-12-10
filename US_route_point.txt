@@ -100,3 +100,4 @@ DOMAIN,ipxo.com
 DOMAIN,ipinfo.io
 DOMAIN,doordash.com
 DOMAIN,postmates.com
+DOMAIN,grubhub.com
