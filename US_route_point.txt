@@ -104,3 +104,4 @@ DOMAIN,doordash.com
 DOMAIN,postmates.com
 DOMAIN,grubhub.com
 DOMAIN,kdgjdk.com
+DOMAIN,yahoo.com
