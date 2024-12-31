@@ -105,3 +105,4 @@ DOMAIN,postmates.com
 DOMAIN,grubhub.com
 DOMAIN,kdgjdk.com
 DOMAIN,yahoo.com
+DOMAIN,pandaexpress.com
