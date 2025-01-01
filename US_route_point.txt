@@ -2,7 +2,8 @@
 IP-CIDR,89.213.52.0/22
 IP-CIDR,190.93.72.0/22
 IP-CIDR,204.141.210.0/24 
-IP-CIDR,12.11.88.0/24
+IP-CIDR,12.11.88.32/27
+IP-CIDR,12.11.88.96/27
 DOMAIN,www.googleapis.com
 DOMAIN,lens.l.google.com
 DOMAIN,ssl.gstatic.com
