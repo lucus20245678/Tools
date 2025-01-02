@@ -104,7 +104,8 @@ DOMAIN,ipinfo.io
 DOMAIN,doordash.com
 DOMAIN,postmates.com
 DOMAIN,grubhub.com
-DOMAIN,kdgjdk.com
+DOMAIN,chowbus.com
+DOMAIN,fiveguys.com
 DOMAIN,yahoo.com
 DOMAIN,pandaexpress.com
 DOMAIN,Grubhub.com
