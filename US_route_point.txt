@@ -109,3 +109,4 @@ DOMAIN,fiveguys.com
 DOMAIN,yahoo.com
 DOMAIN,pandaexpress.com
 DOMAIN,Grubhub.com
+DOMAIN,bankofamerica.com
