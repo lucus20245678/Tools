@@ -110,3 +110,4 @@ DOMAIN,yahoo.com
 DOMAIN,pandaexpress.com
 DOMAIN,Grubhub.com
 DOMAIN,bankofamerica.com
+DOMAIN,box.com
