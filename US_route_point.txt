@@ -112,3 +112,4 @@ DOMAIN,Grubhub.com
 DOMAIN,bankofamerica.com
 DOMAIN,box.com
 DOMAIN,paypal.com
+DOMAIN,uscardforum.com
