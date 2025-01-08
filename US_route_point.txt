@@ -113,3 +113,4 @@ DOMAIN,bankofamerica.com
 DOMAIN,box.com
 DOMAIN,paypal.com
 DOMAIN,uscardforum.com
+DOMAIN,justanswer.com
