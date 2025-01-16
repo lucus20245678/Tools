@@ -1,2 +1,2 @@
 #jp route
-DOMIAN,payeer.com
+DOMAIN,payeer.com
