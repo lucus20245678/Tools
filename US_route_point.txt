@@ -115,3 +115,4 @@ DOMAIN,paypal.com
 DOMAIN,uscardforum.com
 DOMAIN,justanswer.com
 DOMAIN,t-mobile.com
+DOMAIN,windstreambusiness.com
