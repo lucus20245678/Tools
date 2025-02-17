@@ -118,3 +118,4 @@ DOMAIN,t-mobile.com
 DOMAIN,windstreambusiness.com
 DOMAIN,windstream.com
 DOMAIN,windstreamenterprise.com
+DOMAIN,hawaiiantel.com
