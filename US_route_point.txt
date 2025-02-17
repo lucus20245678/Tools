@@ -117,3 +117,4 @@ DOMAIN,justanswer.com
 DOMAIN,t-mobile.com
 DOMAIN,windstreambusiness.com
 DOMAIN,windstream.com
+DOMAIN,windstreamenterprise.com
