@@ -9,3 +9,4 @@ DOMAIN,binance.com
 DOMAIN,ihg.com
 DOMAIN,ihg.com.cn
 DOMAIN,wechat-ip-shop.vercel.app
+DOMAIN,htx.com
