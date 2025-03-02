@@ -123,3 +123,8 @@ DOMAIN,usembassy-china.org.cn
 DOMAIN,usvisascheduling.com
 DOMAIN,whatsapp.com
 DOMAIN,docusign.net
+DOMAIN,ipgeolocation.io
+DOMAIN,ipinfo.io
+DOMAIN,ip2location.com
+DOMAIN,ipregistry.co
+DOMAIN,maxmind.com
