@@ -128,3 +128,4 @@ DOMAIN,ipinfo.io
 DOMAIN,ip2location.com
 DOMAIN,ipregistry.co
 DOMAIN,maxmind.com
+DOMAIN,cox.com
