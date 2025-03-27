@@ -136,3 +136,4 @@ DOMAIN,shentel.com
 DOMAIN,comcast.com
 DOMAIN,mediacomcable.com
 DOMAIN,optimum.net
+DOMAIN,astound.com
