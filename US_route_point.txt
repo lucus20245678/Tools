@@ -132,3 +132,4 @@ DOMAIN,cox.com
 DOMAIN,barclaycardus.com
 DOMAIN,privateemail.com
 DOMAIN,app.box.com
+DOMAIN,shentel.com
