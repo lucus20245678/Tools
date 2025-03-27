@@ -139,3 +139,4 @@ DOMAIN,optimum.net
 DOMAIN,astound.com
 DOMAIN,car.com
 DOMAIN,kbb.com
+DOMAIN,edmunds.com
