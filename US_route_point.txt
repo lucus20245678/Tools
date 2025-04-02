@@ -141,4 +141,5 @@ DOMAIN,astound.com
 DOMAIN,car.com
 DOMAIN,kbb.com
 DOMAIN,edmunds.com
-DOMAIN,.facebook.com
+DOMAIN,facebook.com
+DOMAIN,t-mobile.com
