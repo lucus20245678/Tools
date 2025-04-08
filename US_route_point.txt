@@ -143,3 +143,4 @@ DOMAIN,kbb.com
 DOMAIN,edmunds.com
 DOMAIN,facebook.com
 DOMAIN,t-mobile.com
+DOMAIN,ipxo.com
