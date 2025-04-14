@@ -145,3 +145,4 @@ DOMAIN,facebook.com
 DOMAIN,t-mobile.com
 DOMAIN,ipxo.com
 DOMAIN,grok.com
+DOMAIN,accounts.x.ai
