@@ -148,3 +148,4 @@ DOMAIN,grok.com
 DOMAIN,accounts.x.ai
 DOMAIN,auth.grok.com
 DOMAIN,figma.com
+DOMAIN,equinixmetal.com
