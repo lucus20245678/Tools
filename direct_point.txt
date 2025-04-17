@@ -5,3 +5,4 @@ DOMAIN,tencent.com
 DOMAIN,futunn.com
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN,douyin.com
+DOMAIN,modao.cc
