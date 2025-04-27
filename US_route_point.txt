@@ -156,3 +156,4 @@ DOMAIN,equinix.com
 DOMAIN,proxydetect.live
 DOMAIN,tradingview.com
 DOMAIN,38.179.80.0/24
+DOMAIN,wikipedia.org
