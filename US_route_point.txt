@@ -160,3 +160,4 @@ DOMAIN-SUFFIX,38.179.80.0/24
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,www.tradingview.com
 DOMAIN-SUFFIX,cloudfitters.com
+DOMAIN-SUFFIX,ntt.net
