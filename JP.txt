@@ -1,2 +1,3 @@
 #jp route
 DOMAIN,payeer.com
+DOMAIN,portal.global.ntt
