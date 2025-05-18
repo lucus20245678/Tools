@@ -162,3 +162,4 @@ DOMAIN-SUFFIX,www.tradingview.com
 DOMAIN-SUFFIX,cloudfitters.com
 DOMAIN-SUFFIX,ipweb.cc
 DOMAIN-SUFFIX,ntt.net
+DOMAIN-SUFFIX,ouyo666.win
