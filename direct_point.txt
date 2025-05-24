@@ -6,3 +6,4 @@ DOMAIN,futunn.com
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN,douyin.com
 DOMAIN,modao.cc
+DOMAIN,mongo-data.com
