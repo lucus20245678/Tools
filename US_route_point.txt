@@ -163,3 +163,4 @@ DOMAIN-SUFFIX,cloudfitters.com
 DOMAIN-SUFFIX,ipweb.cc
 DOMAIN-SUFFIX,ntt.net
 DOMAIN-SUFFIX,ouyo666.win
+IP-CIDR,50.3.96.0/24
