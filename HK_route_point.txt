@@ -10,3 +10,9 @@ DOMAIN,ihg.com
 DOMAIN,ihg.com.cn
 DOMAIN,wechat-ip-shop.vercel.app
 DOMAIN,htx.com
+DOMAIN-SUFFIX,interactivebrokers.co.uk
+DOMAIN-SUFFIX,interactivebrokers.co.in
+DOMAIN-SUFFIX,interactivebrokers.com.hk
+DOMAIN-SUFFIX,interactivebrokers.com.au
+DOMAIN-SUFFIX,hdc1.ibllc.com
+DOMAIN-SUFFIX,hdc1_hb1.ibllc.com
