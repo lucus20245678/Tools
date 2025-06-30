@@ -10,3 +10,4 @@ DOMAIN,mongo-data.com
 DOMAIN-SUFFIX,ibkr.com.cn
 DOMAIN-SUFFIX,mcgw1.ibllc.com.cn
 DOMAIN-SUFFIX,mcgw1_hb1.ibllc.com.cn
+DOMAIN-SUFFIX,deepseek.com
