@@ -4,3 +4,15 @@ DOMAIN,portal.global.ntt
 DOMAIN-SUFFIX,interactivebrokers.ca
 DOMAIN-SUFFIX,interactivebrokers.co.jp
 DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,interactivebrokers.ca
+DOMAIN-SUFFIX,gdcdyn.interactivebrokers.com
+DOMAIN-SUFFIX,cdcdyn.interactivebrokers.com
+DOMAIN-SUFFIX,ndc1.ibllc.com
+DOMAIN-SUFFIX,ndc1_hb1.ibllc.com
+DOMAIN-SUFFIX,cdc1.ibllc.com
+DOMAIN-SUFFIX,cdc1_hb1.ibllc.com
+DOMAIN-SUFFIX,download.interactivebrokers.com
+DOMAIN-SUFFIX,download2.interactivebrokers.com
+DOMAIN-SUFFIX,risk.interactivebrokers.com
+DOMAIN-SUFFIX,wit1.interactivebrokers.com
