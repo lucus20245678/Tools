@@ -179,3 +179,4 @@ DOMAIN-SUFFIX,stocktwits.com
 DOMAIN-SUFFIX,morningstar.com
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,optioncharts.io
+DOMAIN-SUFFIX,sparkproxy.com
