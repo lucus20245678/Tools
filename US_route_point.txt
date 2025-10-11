@@ -181,3 +181,4 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,optioncharts.io
 DOMAIN-SUFFIX,sparkproxy.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,github.com
