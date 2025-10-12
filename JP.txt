@@ -17,3 +17,4 @@ DOMAIN-SUFFIX,download2.interactivebrokers.com
 DOMAIN-SUFFIX,risk.interactivebrokers.com
 DOMAIN-SUFFIX,wit1.interactivebrokers.com
 DOMAIN-SUFFIX,webull.hk
+DOMAIN-SUFFIX,metacubex.one
