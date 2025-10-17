@@ -1,7 +1,6 @@
 #jp route
 DOMAIN,payeer.com
 DOMAIN,portal.global.ntt
-DOMAIN-SUFFIX,interactivebrokers.ca
 DOMAIN-SUFFIX,interactivebrokers.co.jp
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,interactivebrokers.com
