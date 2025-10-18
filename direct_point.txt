@@ -13,3 +13,4 @@ DOMAIN-SUFFIX,mcgw1_hb1.ibllc.com.cn
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,italkbb.com
 DOMAIN-SUFFIX,italkdd.com
+DOMAIN-SUFFIX,hsapi.italkdd.com
