@@ -186,3 +186,4 @@ DOMAIN-SUFFIX,sparkproxy.com
 DOMAIN-SUFFIX,robinhood.com
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,godaddy.com
+IP-CIDR,165.254.16.240/29
