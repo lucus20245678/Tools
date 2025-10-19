@@ -189,3 +189,5 @@ DOMAIN-SUFFIX,ios.chat.openai.com
 DOMAIN-SUFFIX,datadoghq.com
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,sentry.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
