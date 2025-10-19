@@ -14,3 +14,4 @@ DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,italkbb.com
 DOMAIN-SUFFIX,italkdd.com
 DOMAIN-SUFFIX,hsapi.italkdd.com
+DOMAIN-SUFFIX,qq.com
