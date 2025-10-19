@@ -186,3 +186,6 @@ DOMAIN-SUFFIX,download.interactivebrokers.com
 DOMAIN-SUFFIX,download2.interactivebrokers.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,ios.chat.openai.com
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,sentry.com
