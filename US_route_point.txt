@@ -184,3 +184,4 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,download.interactivebrokers.com
 DOMAIN-SUFFIX,download2.interactivebrokers.com
+DOMAIN-SUFFIX,oaistatic.com
