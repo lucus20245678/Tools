@@ -191,3 +191,6 @@ DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,sentry.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-KEYWORD,apple-relay
