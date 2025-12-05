@@ -222,3 +222,5 @@ DOMAIN-KEYWORD,arketplace.visualstudio.com
 DOMAIN-KEYWORD,visualstudio.com
 DOMAIN-KEYWORD,azureedge.net
 DOMAIN-KEYWORD,cloudfront.net
+IP-CIDR,173.245.48.0/20
+IP-CIDR,103.21.244.0/22
