@@ -199,3 +199,26 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-KEYWORD,apple-relay
+DOMAIN-KEYWORD,api.cursor.sh
+DOMAIN-KEYWORD,cursor.com
+DOMAIN-KEYWORD,update.cursor.sh
+DOMAIN-KEYWORD,openaiapi-site.azureedge.net
+DOMAIN-KEYWORD,anthropic.com
+DOMAIN-KEYWORD,anthropic-cloudflare.com
+DOMAIN-KEYWORD,api.mistral.ai
+DOMAIN-KEYWORD,api.groq.com
+DOMAIN-KEYWORD,api.gptapi.us
+DOMAIN-KEYWORD,api.together.xyz
+DOMAIN-KEYWORD,objects.githubusercontent.com
+DOMAIN-KEYWORD,marketplace.visualstudio.com
+DOMAIN-KEYWORD,vscode.dev / update.code.visualstudio.com
+DOMAIN-KEYWORD,ws.cursor.sh
+DOMAIN-KEYWORD,events.cursor.sh
+DOMAIN-KEYWORD,cloudfront.net
+DOMAIN-KEYWORD,azureedge.net
+DOMAIN-KEYWORD,api.anthropic.com
+DOMAIN-KEYWORD,githubusercontent.com
+DOMAIN-KEYWORD,arketplace.visualstudio.com
+DOMAIN-KEYWORD,visualstudio.com
+DOMAIN-KEYWORD,azureedge.net
+DOMAIN-KEYWORD,cloudfront.net
