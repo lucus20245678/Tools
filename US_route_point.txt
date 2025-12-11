@@ -224,5 +224,5 @@ DOMAIN-KEYWORD,arketplace.visualstudio.com
 DOMAIN-KEYWORD,visualstudio.com
 DOMAIN-KEYWORD,azureedge.net
 DOMAIN-KEYWORD,cloudfront.net
-
+DOMAIN-KEYWORD,windsurf.com
 
