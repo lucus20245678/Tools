@@ -213,7 +213,7 @@ DOMAIN-KEYWORD,objects.githubusercontent.com
 DOMAIN-KEYWORD,marketplace.visualstudio.com
 DOMAIN-KEYWORD,vscode.dev  
 DOMAIN-KEYWORD,update.code.visualstudio.com
-DOMAIN-KEYWORD,ws.cursor.sh
+DOMAIN-SUFFIX,cursor.sh
 DOMAIN-KEYWORD,events.cursor.sh
 DOMAIN-KEYWORD,cloudfront.net
 DOMAIN-KEYWORD,azureedge.net
