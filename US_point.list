@@ -199,7 +199,7 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-KEYWORD,apple-relay
-DOMAIN-KEYWORD,api.cursor.sh
+DOMAIN-KEYWORD,cursor.sh
 DOMAIN-KEYWORD,cursor.com
 DOMAIN-KEYWORD,update.cursor.sh
 DOMAIN-KEYWORD,openaiapi-site.azureedge.net
