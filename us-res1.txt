@@ -1,1 +1,1 @@
-perplexity.ai
+DOMAIN-SUFFIX,perplexity.ai
