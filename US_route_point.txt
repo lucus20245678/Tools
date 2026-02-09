@@ -228,4 +228,6 @@ DOMAIN-KEYWORD,azureedge.net
 DOMAIN-KEYWORD,cloudfront.net
 DOMAIN-KEYWORD,windsurf.com
 DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-KEYWORD,robinhood.com
+
 
