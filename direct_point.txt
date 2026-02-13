@@ -1,4 +1,5 @@
 #direct route
+DOMAIN,ihg.com
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,italkbb.com
