@@ -1,4 +1,11 @@
 #direct route
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,italkbb.com
+DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-KEYWORD,ifastgb.com
+DOMAIN-KEYWORD,ifast.com
+DOMAIN-SUFFIX,DOMAIN,ihg.com
 DOMAIN,iqiyi.com
 DOMAIN,quark.cn
 DOMAIN,tencent.com
