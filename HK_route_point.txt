@@ -16,3 +16,4 @@ DOMAIN-SUFFIX,interactivebrokers.com.hk
 DOMAIN-SUFFIX,interactivebrokers.com.au
 DOMAIN-SUFFIX,hdc1.ibllc.com
 DOMAIN-SUFFIX,hdc1_hb1.ibllc.com
+DOMAIN-SUFFIX,revolut.com
