@@ -6,7 +6,6 @@ DOMAIN,wise.com
 DOMAIN,ocbc.com
 DOMAIN,bitpay.com
 DOMAIN,binance.com
-DOMAIN,wechat-ip-shop.vercel.app
 DOMAIN,htx.com
 DOMAIN-SUFFIX,interactivebrokers.co.uk
 DOMAIN-SUFFIX,interactivebrokers.co.in
