@@ -15,3 +15,4 @@ DOMAIN-SUFFIX,hdc1.ibllc.com
 DOMAIN-SUFFIX,hdc1_hb1.ibllc.com
 DOMAIN-SUFFIX,revolut.com
 DOMAIN,revolut-business.onelink.me
+DOMAIN-SUFFIX,webull.hk
