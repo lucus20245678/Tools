@@ -228,5 +228,5 @@ DOMAIN-KEYWORD,cloudfront.net
 DOMAIN-KEYWORD,windsurf.com
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-KEYWORD,robinhood.com
-
+DOMAIN-KEYWORD,finicity.com
 
