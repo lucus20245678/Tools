@@ -97,7 +97,8 @@ DOMAIN-SUFFIX,synnex.com
 DOMAIN-SUFFIX,avnet.com
 DOMAIN-SUFFIX,neweggbusiness.com
 DOMAIN-SUFFIX,bankofamerica.com
-DOMAIN-SUFFIX,openai.com
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
 DOMAIN-SUFFIX,capitalone.com
 DOMAIN-SUFFIX,expressticketing.acss.att.com
 DOMAIN-SUFFIX,sdnportal.att.com
