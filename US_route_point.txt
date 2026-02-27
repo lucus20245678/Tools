@@ -232,3 +232,4 @@ DOMAIN-KEYWORD,robinhood.com
 DOMAIN-KEYWORD,finicity.com
 DOMAIN-KEYWORD,worldmonitor.app
 DOMAIN-SUFFIX,rsshub.app
+DOMAIN-SUFFIX,wyomingagents.com
