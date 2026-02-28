@@ -233,3 +233,4 @@ DOMAIN-KEYWORD,finicity.com
 DOMAIN-KEYWORD,worldmonitor.app
 DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,wyomingagents.com
+DOMAIN-SUFFIX,jumpserver-va.kdgjdk.com
