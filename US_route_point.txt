@@ -234,3 +234,4 @@ DOMAIN-KEYWORD,worldmonitor.app
 DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,wyomingagents.com
 DOMAIN-SUFFIX,jumpserver-va.kdgjdk.com
+DOMAIN-SUFFIX,wyomingagents.com
