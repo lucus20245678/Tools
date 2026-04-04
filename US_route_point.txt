@@ -203,7 +203,7 @@ DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-KEYWORD,apple-relay
 DOMAIN-KEYWORD,perplexity.ai
 DOMAIN-KEYWORD,bgpview.io
-DOMAIN-KEYWORD,cursor.sh
+DOMAIN-KEYWORD,cursor
 DOMAIN-KEYWORD,cursor.com
 DOMAIN-KEYWORD,update.cursor.sh
 DOMAIN-KEYWORD,openaiapi-site.azureedge.net
