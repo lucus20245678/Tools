@@ -237,3 +237,6 @@ DOMAIN-SUFFIX,jumpserver-va.kdgjdk.com
 DOMAIN-SUFFIX,wyomingagents.com
 DOMAIN-SUFFIX,cogentco.com
 DOMAIN-SUFFIX,cheddar.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursor-cdn.com
