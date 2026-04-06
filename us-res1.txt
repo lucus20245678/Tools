@@ -1,2 +1,3 @@
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,portal.global.ntt
+DOMAIN-SUFFIX,cloudflare.com
