@@ -32,7 +32,6 @@ DOMAIN-SUFFIX,schwab.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,namecheap.com
 DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,futureconnect.io
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,sagernet.org
@@ -198,7 +197,6 @@ DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,sentry.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-KEYWORD,apple-relay
 DOMAIN-KEYWORD,perplexity.ai
@@ -208,7 +206,6 @@ DOMAIN-KEYWORD,cursor.com
 DOMAIN-KEYWORD,update.cursor.sh
 DOMAIN-KEYWORD,openaiapi-site.azureedge.net
 DOMAIN-KEYWORD,anthropic.com
-DOMAIN-KEYWORD,anthropic-cloudflare.com
 DOMAIN-KEYWORD,api.mistral.ai
 DOMAIN-KEYWORD,api.groq.com
 DOMAIN-KEYWORD,api.gptapi.us
