@@ -237,3 +237,4 @@ DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cheddarflow.com
 DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,fidelity.com
