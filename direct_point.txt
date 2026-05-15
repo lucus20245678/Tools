@@ -29,3 +29,8 @@ DOMAIN-SUFFIX,modao.cc
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,anydesk.com
 DOMAIN-SUFFIX,quantum-proxy.com
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,oray.net
+DOMAIN-SUFFIX,sunlogin.oray.com
+DOMAIN-SUFFIX,aweray.com
+DOMAIN-SUFFIX,awesun.com
