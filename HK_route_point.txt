@@ -19,3 +19,6 @@ DOMAIN-SUFFIX,webull.hk
 DOMAIN-SUFFIX,yodlee.com
 IP-CIDR,204.141.210.102/32
 IP-CIDR,50.3.96.254/32
+DOMAIN-SUFFIX,neverless.com
+DOMAIN-SUFFIX,engagelab.com
+
