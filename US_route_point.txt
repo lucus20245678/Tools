@@ -239,6 +239,4 @@ DOMAIN-SUFFIX,cheddarflow.com
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,fidelity.com
 DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discord.media
-DOMAIN-SUFFIX,media.discordapp.net
+DOMAIN-SUFFIX,futunn.com
