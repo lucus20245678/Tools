@@ -240,3 +240,4 @@ DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,fidelity.com
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,shopback.com
