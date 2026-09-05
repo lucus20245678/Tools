@@ -241,3 +241,4 @@ DOMAIN-SUFFIX,fidelity.com
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,shopback.com
+DOMAIN-SUFFIX,whatsapp.com
