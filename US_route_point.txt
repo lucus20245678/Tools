@@ -244,3 +244,8 @@ DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,shopback.com
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,cboe.com
+DOMAIN-SUFFIX,investopedia.com
+DOMAIN-SUFFIX,optionalpha.com
+DOMAIN-SUFFIX,tastytrade.com
+DOMAIN-SUFFIX,optionstrat.com
+DOMAIN-SUFFIX,cmegroup.com
