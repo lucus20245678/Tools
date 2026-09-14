@@ -250,3 +250,4 @@ DOMAIN-SUFFIX,tastytrade.com
 DOMAIN-SUFFIX,optionstrat.com
 DOMAIN-SUFFIX,cmegroup.com
 DOMAIN-SUFFIX,slash.com
+DOMAIN-SUFFIX,cnn.com
