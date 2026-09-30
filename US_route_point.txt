@@ -252,3 +252,4 @@ DOMAIN-SUFFIX,cmegroup.com
 DOMAIN-SUFFIX,slash.com
 DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,resy.com
+DOMAIN-SUFFIX,privateemail.com
