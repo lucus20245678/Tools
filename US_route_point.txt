@@ -254,3 +254,8 @@ DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,resy.com
 DOMAIN-SUFFIX,privateemail.com
 DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,schwab.com
