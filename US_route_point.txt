@@ -259,3 +259,9 @@ DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,wellsfargo.com
+DOMAIN-SUFFIX,twetterdeck.com
