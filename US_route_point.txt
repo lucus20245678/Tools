@@ -266,3 +266,4 @@ DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,wellsfargo.com
 DOMAIN-SUFFIX,twetterdeck.com
 DOMAIN-SUFFIX,he.net
+DOMAIN-SUFFIX,newegg.com
