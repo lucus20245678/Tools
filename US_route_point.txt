@@ -154,7 +154,6 @@ DOMAIN-SUFFIX,astound.com
 DOMAIN-SUFFIX,car.com
 DOMAIN-SUFFIX,kbb.com
 DOMAIN-SUFFIX,edmunds.com
-DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,t-mobile.com
 DOMAIN-SUFFIX,ipxo.com
 DOMAIN-SUFFIX,grok.com
