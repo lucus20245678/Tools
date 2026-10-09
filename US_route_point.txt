@@ -267,3 +267,4 @@ DOMAIN-SUFFIX,twetterdeck.com
 DOMAIN-SUFFIX,he.net
 DOMAIN-SUFFIX,newegg.com
 DOMAIN-SUFFIX,ebay.com
+DOMAIN-SUFFIX,serverhub.com
