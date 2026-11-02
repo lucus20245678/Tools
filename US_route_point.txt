@@ -268,4 +268,5 @@ DOMAIN-SUFFIX,he.net
 DOMAIN-SUFFIX,newegg.com
 DOMAIN-SUFFIX,ebay.com
 DOMAIN-SUFFIX,serverhub.com
-DOMAIN-SUFFIX,nousresearch.com
+DOMAIN-SUFFIXDOMAIN-SUFFIX,nousresearch.com
+DOMAIN-SUFFIX,postman.com
