@@ -270,3 +270,4 @@ DOMAIN-SUFFIX,ebay.com
 DOMAIN-SUFFIX,serverhub.com
 DOMAIN-SUFFIXDOMAIN-SUFFIX,nousresearch.com
 DOMAIN-SUFFIX,postman.com
+DOMAIN-SUFFIX,bankrate.com
