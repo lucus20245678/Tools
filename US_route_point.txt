@@ -271,5 +271,5 @@ DOMAIN-SUFFIX,serverhub.com
 DOMAIN-SUFFIX,nousresearch.com
 DOMAIN-SUFFIX,postman.com
 DOMAIN-SUFFIX,bankrate.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,lovable.dev
-linear.app
+DOMAIN-SUFFIX,lovable.dev
+DOMAIN-SUFFIX,linear.app
